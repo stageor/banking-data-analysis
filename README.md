@@ -1,15 +1,12 @@
 # Banking Data Analysis Project
 
 ## Overview
-
 This project performs exploratory data analysis on a synthetic banking dataset and generates automated visual reports in PDF format. The goal is to extract meaningful patterns from customer-level banking data and present results in a structured, reproducible reporting workflow.
 
 ---
 
 ## Business Objective
-
 Banks need visibility into:
-
 - Customer engagement levels
 - Loan distribution patterns
 - Transaction behavior by demographic segment
@@ -56,7 +53,6 @@ Each analysis includes visualization and summary interpretation.
 ---
 
 ## Outputs
-
 - Automated chart generation (PNG format)  
 - Programmatically generated consolidated PDF report  
 - Reproducible Jupyter workflow  
@@ -84,14 +80,12 @@ banking-data-analysis/
 ## How to Run
 
 1. Install required libraries:
-
 ```
 pip install pandas numpy matplotlib seaborn
 ```
 
 2. Open `Banking_Report.ipynb`
 3. Run all cells to regenerate visualizations and PDF output
-
 ---
 
 ## Key Takeaways
