@@ -1,48 +1,55 @@
 # Banking Data Analysis Project
 
 ## Overview
-This project performs exploratory data analysis on a synthetic banking dataset and generates automated visual reports in PDF format. The goal is to extract meaningful patterns from customer-level banking data and present results in a structured, reproducible reporting workflow.
+
+This project performs exploratory data analysis on a synthetic banking dataset and generates an automated PDF report.
+
+It demonstrates how raw customer-level banking data can be transformed into structured, decision-ready insights using a reproducible analytics workflow.
 
 ---
 
-## Business Objective
-Banks need visibility into:
-- Customer engagement levels
+## Business Context
+
+Retail banks require structured visibility into customer behavior and financial exposure. Key monitoring areas include:
+
+- Customer engagement and inactivity
 - Loan distribution patterns
-- Transaction behavior by demographic segment
-- Risk indicators linked to inactivity or balance levels
+- Transaction behavior across demographics
+- Risk signals linked to low balances or dormant accounts
 
-This project simulates a reporting pipeline that converts raw banking data into decision-ready visual summaries.
+This project simulates a reporting pipeline that converts transactional data into visual intelligence.
 
 ---
 
-## Dataset Description
+## Dataset
 
-Synthetic dataset containing:
+Synthetic customer-level dataset containing:
 
 - `customer_id`
 - `age`
 - `gender`
 - `account_balance`
 - `loan_amount`
-- `account_status` (active / inactive)
+- `account_status` (active, inactive)
 - `transaction_count`
+
+The dataset mirrors typical retail banking attributes used in engagement and risk analysis.
 
 ---
 
 ## Analysis Performed
 
-1. Active vs Inactive Account Distribution  
-2. Average Transactions by Age Group  
-3. Account Balance vs Loan Amount Relationship  
-4. Loan Ownership Distribution  
-5. Account Status Breakdown  
+1. Active vs Inactive account distribution  
+2. Average transaction count by age group  
+3. Account balance vs Loan amount relationship  
+4. Loan ownership distribution  
+5. Account status breakdown  
 
-Each analysis includes visualization and summary interpretation.
+Each analysis includes a visualization and a concise interpretation.
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 - Python  
 - Pandas  
@@ -53,9 +60,10 @@ Each analysis includes visualization and summary interpretation.
 ---
 
 ## Outputs
+
 - Automated chart generation (PNG format)  
 - Programmatically generated consolidated PDF report  
-- Reproducible Jupyter workflow  
+- Fully reproducible Jupyter Notebook workflow  
 
 ---
 
