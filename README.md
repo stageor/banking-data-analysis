@@ -12,12 +12,12 @@ It demonstrates how raw customer-level banking data can be transformed into stru
 
 Retail banks require structured visibility into customer behavior and financial exposure. Key monitoring areas include:
 
-- Customer engagement and inactivity
-- Loan distribution patterns
-- Transaction behavior across demographics
-- Risk signals linked to low balances or dormant accounts
+- Customer engagement and inactivity  
+- Loan distribution patterns  
+- Transaction behavior across demographics  
+- Risk signals linked to low balances or dormant accounts  
 
-This project simulates a reporting pipeline that converts transactional data into visual intelligence.
+This project simulates a reporting pipeline that converts transactional data into actionable visual summaries.
 
 ---
 
@@ -25,31 +25,31 @@ This project simulates a reporting pipeline that converts transactional data int
 
 Synthetic customer-level dataset containing:
 
-- `customer_id`
-- `age`
-- `gender`
-- `account_balance`
-- `loan_amount`
-- `account_status` (active, inactive)
-- `transaction_count`
+- `customer_id`  
+- `age`  
+- `gender`  
+- `account_balance`  
+- `loan_amount`  
+- `account_status` (active, inactive)  
+- `transaction_count`  
 
-The dataset mirrors typical retail banking attributes used in engagement and risk analysis.
+The dataset mirrors common attributes used in retail banking engagement and risk analysis.
 
 ---
 
 ## Analysis Performed
 
-1. Active vs Inactive account distribution  
-2. Average transaction count by age group  
-3. Account balance vs Loan amount relationship  
-4. Loan ownership distribution  
-5. Account status breakdown  
+1. Active vs Inactive Account Distribution  
+2. Average Transaction Count by Age Group  
+3. Account Balance vs Loan Amount Relationship  
+4. Loan Ownership Distribution  
+5. Account Status Breakdown  
 
-Each analysis includes a visualization and a concise interpretation.
+Each analysis includes a visualization and concise interpretation.
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 - Python  
 - Pandas  
