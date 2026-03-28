@@ -4,7 +4,7 @@
 
 This project conducts exploratory data analysis on a synthetic banking dataset and produces an automated PDF report.
 
-It shows how raw customer-level banking data can be systematically processed into structured, decision-ready insights through a reproducible analytics workflow.
+It shows how raw customer-level banking data can be systematically processed and converted into structured, decision-ready insights through a reproducible analytics workflow.
 
 ---
 
