@@ -2,7 +2,7 @@
 
 ## Overview
 
-Conducted exploratory data analysis on a synthetic banking dataset and generated an automated PDF report.
+Conducted exploratory data analysis on a synthetic banking dataset and generated automated PDF report.
 
 Demonstrates how raw customer-level banking data can be systematically processed and transformed into structured, decision-ready insights through a reproducible analytics workflow.
 
