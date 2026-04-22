@@ -4,7 +4,7 @@
 
 Performed exploratory data analysis on a synthetic banking dataset and produced an automated PDF report.
 
-Demonstrates how raw customer-level banking data can be systematically processed and transformed into structured, decision-ready insights through a reproducible analytics workflow.
+Shows how raw customer-level banking data is systematically processed and transformed into structured, decision-ready insights using a reproducible analytics workflow.
 
 ---
 
